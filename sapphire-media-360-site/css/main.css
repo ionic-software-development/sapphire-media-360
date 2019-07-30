@@ -1,10 +1,18 @@
 body, html {
   font-family: Verdana, OpenSans;
 }
-
-body {
-  font-family: Verdana, sans-serif;
+.centered{
+  align-content: center;
+  text-align: center;
+  width: 100%;
 }
-
-
+.para_journey{
+  width: 50%;
+  letter-spacing: 3px;
+  text-shadow: 0px 2px 3px #555;
+}
+.centered_div{
+  padding-left: 30%;
+  align-content: center;
+}
 /*# sourceMappingURL=main.css.map */
