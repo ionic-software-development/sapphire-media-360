@@ -2,7 +2,6 @@ body, html {
   font-family: Verdana, OpenSans;
 }
 .centered{
-  align-content: center;
   text-align: center;
   width: 100%;
 }
